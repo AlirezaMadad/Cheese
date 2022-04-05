@@ -1,0 +1,17 @@
+C:\Users\Alireza\Desktop\TestApp\Application\bin\Debug\net5.0\Application.deps.json
+C:\Users\Alireza\Desktop\TestApp\Application\bin\Debug\net5.0\Application.dll
+C:\Users\Alireza\Desktop\TestApp\Application\bin\Debug\net5.0\Application.pdb
+C:\Users\Alireza\Desktop\TestApp\Application\bin\Debug\net5.0\Core.dll
+C:\Users\Alireza\Desktop\TestApp\Application\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\Alireza\Desktop\TestApp\Application\bin\Debug\net5.0\Core.pdb
+C:\Users\Alireza\Desktop\TestApp\Application\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\Alireza\Desktop\TestApp\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Users\Alireza\Desktop\TestApp\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alireza\Desktop\TestApp\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\Alireza\Desktop\TestApp\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\Alireza\Desktop\TestApp\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\Desktop\TestApp\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Users\Alireza\Desktop\TestApp\Application\obj\Debug\net5.0\Application.dll
+C:\Users\Alireza\Desktop\TestApp\Application\obj\Debug\net5.0\refint\Application.dll
+C:\Users\Alireza\Desktop\TestApp\Application\obj\Debug\net5.0\Application.pdb
+C:\Users\Alireza\Desktop\TestApp\Application\obj\Debug\net5.0\ref\Application.dll
